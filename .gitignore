@@ -1,2 +1,4 @@
 .env
-node_modules/
+biblioteca_popular.csv
+cine.csv
+museo.csv
